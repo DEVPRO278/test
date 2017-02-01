@@ -1,0 +1,10 @@
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\bin\Debug\First projet.exe
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\bin\Debug\First projet.pdb
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\obj\x86\Debug\First_projet.Form1.resources
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\obj\x86\Debug\First_projet.Properties.Resources.resources
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\obj\x86\Debug\First projet.csproj.GenerateResource.Cache
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\obj\x86\Debug\First projet.exe
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\obj\x86\Debug\First projet.pdb
+C:\Users\MAC-SOLTAN\Documents\2 Anne C#\First projet\First projet\obj\x86\Debug\First projet.csprojResolveAssemblyReference.cache
+I:\First projet\First projet\obj\x86\Debug\First projet.exe
+I:\First projet\First projet\obj\x86\Debug\First projet.pdb
